@@ -1,2 +1,2 @@
-# balancedash
+# Balancedash
 Iterative Finacial Dashboard
